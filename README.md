@@ -5,6 +5,8 @@
     <title>My test page</title>
   </head>
   <body>
-    <img src="" alt="My test image">
+    <img src= web-projects/test-site/images/AMAN (1).png>
+    width= "400"
+    height = "341"
   </body>
 </html> 
